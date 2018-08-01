@@ -9,8 +9,8 @@ app.cPager.ctrl('myCtrl', {
 
         return function () {
             console.log('---> myTask 2. ');
-
-            // Your Code here...
+            
+            $('.cycle-slideshow').cycle();
 
         };
     },

@@ -9,7 +9,7 @@ app.initialize = function() {
         container: 'page',
         start: {
             page: 'home',
-            task: false,
+            task: 'myCtrl.myTask',
             content: false,
             param: {
                 history: true
@@ -25,7 +25,7 @@ app.initialize = function() {
         tmpl: ['home'],
         tasks: cPagerTasks,
         ctrlPath: './ctrl',
-        ctrl: ['myCtrl','mySecondCtrl'],
+        ctrl: ['myCtrl'],
         debug: app.LOG || false,
         onReady: function () {}
     });
