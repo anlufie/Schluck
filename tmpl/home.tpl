@@ -6,8 +6,8 @@
     data-cycle-next=".next"
     >
 
-    <img class="pageBtn w100 h100" data-page="home2" data-direction="top" data-duration="2" data-animate="ease" src="http://malsup.github.io/images/p1.jpg">
-    <img class="pageBtn w100 h100" data-page="home2"  data-direction="top" data-duration="2" data-animate="ease" src="http://malsup.github.io/images/p2.jpg">
-    <img class="pageBtn w100 h100" data-page="home2"  data-direction="top" data-duration="2" data-animate="ease" src="http://malsup.github.io/images/p3.jpg">
-    <img class="pageBtn w100 h100" data-page="home2"  data-direction="top" data-duration="2" data-animate="ease" src="http://malsup.github.io/images/p4.jpg">
+    <img class="pageBtn w100 h100" data-page="home2" data-direction="top" data-duration="2" data-animate="ease" src="images/latex_eoman.jpg">
+    <img class="pageBtn w100 h100" data-page="home2"  data-direction="top" data-duration="2" data-animate="ease" src="images/seil.jpg">
+    <img class="pageBtn w100 h100" data-page="home2"  data-direction="top" data-duration="2" data-animate="ease" src="images/reissverschluss.jpg">
+
 </div>
